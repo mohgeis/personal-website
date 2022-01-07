@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mohamed Geis site</title>
+    <link>https://mohgeis.com/posts/</link>
+    <description>Recent content in Posts on Mohamed Geis site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Jan 2022 14:29:26 +0100</lastBuildDate><atom:link href="https://mohgeis.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second_post</title>
+      <link>https://mohgeis.com/2022/01/second_post/</link>
+      <pubDate>Wed, 05 Jan 2022 14:29:26 +0100</pubDate>
+      
+      <guid>https://mohgeis.com/2022/01/second_post/</guid>
+      <description>Tranquilpeak Hugo theme have its own theme to highlight source code. It&amp;rsquo;s based on GitHub theme: simple and elegant. Check out how it sublimate source codes. Tranquilpeak Hugo theme have its own theme to highlight source code. It&amp;rsquo;s based on GitHub theme: simple and elegant. Check out how it sublimate source codes.</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://mohgeis.com/2022/01/my-first-post/</link>
+      <pubDate>Mon, 03 Jan 2022 19:15:00 +0100</pubDate>
+      
+      <guid>https://mohgeis.com/2022/01/my-first-post/</guid>
+      <description>&lt;p&gt;Tranquilpeak Hugo theme have its own theme to highlight source code. It&amp;rsquo;s based on GitHub theme: simple and elegant. Check out how it sublimate source codes.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
