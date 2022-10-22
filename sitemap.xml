@@ -1,70 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://mohgeis.com/home/</loc>
     <lastmod>2022-01-05T14:29:26+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mohgeis.com/</loc>
     <lastmod>2022-01-05T14:29:26+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mohgeis.com/posts/</loc>
     <lastmod>2022-01-05T14:29:26+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mohgeis.com/2022/01/second_post/</loc>
     <lastmod>2022-01-05T14:29:26+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mohgeis.com/categories/</loc>
     <lastmod>2022-01-03T19:15:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mohgeis.com/categories/features/</loc>
     <lastmod>2022-01-03T19:15:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mohgeis.com/tags/github-theme/</loc>
     <lastmod>2022-01-03T19:15:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mohgeis.com/tags/highlight-code/</loc>
     <lastmod>2022-01-03T19:15:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mohgeis.com/2022/01/my-first-post/</loc>
     <lastmod>2022-01-03T19:15:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mohgeis.com/tags/</loc>
     <lastmod>2022-01-03T19:15:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mohgeis.com/tags/test/</loc>
     <lastmod>2022-01-03T19:15:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mohgeis.com/categories/tranquilpeak/</loc>
     <lastmod>2022-01-03T19:15:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mohgeis.com/about/</loc>
     <lastmod>2021-11-05T14:29:26+01:00</lastmod>
   </url>
-  
 </urlset>
