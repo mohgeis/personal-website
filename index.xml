@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mohamed Geis site</title>
-    <link>https://mohgeis.com/</link>
+    <link>https://mohgeis.github.io/personal-website/</link>
     <description>Recent content on Mohamed Geis site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Jan 2022 14:29:26 +0100</lastBuildDate><atom:link href="https://mohgeis.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Jan 2022 14:29:26 +0100</lastBuildDate><atom:link href="https://mohgeis.github.io/personal-website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Home</title>
-      <link>https://mohgeis.com/home/</link>
+      <link>https://mohgeis.github.io/personal-website/home/</link>
       <pubDate>Wed, 05 Jan 2022 14:29:26 +0100</pubDate>
       
-      <guid>https://mohgeis.com/home/</guid>
+      <guid>https://mohgeis.github.io/personal-website/home/</guid>
       <description>Welcome to my personal website
 If you are trying to learn how to become a better software and sytems architect, then you are in the right place!</description>
     </item>
     
     <item>
       <title>Second_post</title>
-      <link>https://mohgeis.com/2022/01/second_post/</link>
+      <link>https://mohgeis.github.io/personal-website/2022/01/second_post/</link>
       <pubDate>Wed, 05 Jan 2022 14:29:26 +0100</pubDate>
       
-      <guid>https://mohgeis.com/2022/01/second_post/</guid>
+      <guid>https://mohgeis.github.io/personal-website/2022/01/second_post/</guid>
       <description>Tranquilpeak Hugo theme have its own theme to highlight source code. It&amp;rsquo;s based on GitHub theme: simple and elegant. Check out how it sublimate source codes. Tranquilpeak Hugo theme have its own theme to highlight source code. It&amp;rsquo;s based on GitHub theme: simple and elegant. Check out how it sublimate source codes.</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>https://mohgeis.com/2022/01/my-first-post/</link>
+      <link>https://mohgeis.github.io/personal-website/2022/01/my-first-post/</link>
       <pubDate>Mon, 03 Jan 2022 19:15:00 +0100</pubDate>
       
-      <guid>https://mohgeis.com/2022/01/my-first-post/</guid>
+      <guid>https://mohgeis.github.io/personal-website/2022/01/my-first-post/</guid>
       <description>&lt;p&gt;Tranquilpeak Hugo theme have its own theme to highlight source code. It&amp;rsquo;s based on GitHub theme: simple and elegant. Check out how it sublimate source codes.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>https://mohgeis.com/about/</link>
+      <link>https://mohgeis.github.io/personal-website/about/</link>
       <pubDate>Fri, 05 Nov 2021 14:29:26 +0100</pubDate>
       
-      <guid>https://mohgeis.com/about/</guid>
+      <guid>https://mohgeis.github.io/personal-website/about/</guid>
       <description>Welcome!  A proficient Software Engineer with 12+ years of experience and a track record of delivering quality solutions using a range of different technologies. Dirty hands on Software Development, Systems Integration, and tons of open source tools.
 Deep understanding to software concepts like automation, databases, CICD, mobile &amp;amp; web development, cloud &amp;amp; cloud native architectures, data science &amp;amp; AI and more.
 ITIL3®, ISTQB®, Applied Data Science

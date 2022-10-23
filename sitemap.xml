@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mohgeis.com/home/</loc>
+    <loc>https://mohgeis.github.io/personal-website/home/</loc>
     <lastmod>2022-01-05T14:29:26+01:00</lastmod>
   </url><url>
-    <loc>https://mohgeis.com/</loc>
+    <loc>https://mohgeis.github.io/personal-website/</loc>
     <lastmod>2022-01-05T14:29:26+01:00</lastmod>
   </url><url>
-    <loc>https://mohgeis.com/posts/</loc>
+    <loc>https://mohgeis.github.io/personal-website/posts/</loc>
     <lastmod>2022-01-05T14:29:26+01:00</lastmod>
   </url><url>
-    <loc>https://mohgeis.com/2022/01/second_post/</loc>
+    <loc>https://mohgeis.github.io/personal-website/2022/01/second_post/</loc>
     <lastmod>2022-01-05T14:29:26+01:00</lastmod>
   </url><url>
-    <loc>https://mohgeis.com/categories/</loc>
+    <loc>https://mohgeis.github.io/personal-website/categories/</loc>
     <lastmod>2022-01-03T19:15:00+01:00</lastmod>
   </url><url>
-    <loc>https://mohgeis.com/categories/features/</loc>
+    <loc>https://mohgeis.github.io/personal-website/categories/features/</loc>
     <lastmod>2022-01-03T19:15:00+01:00</lastmod>
   </url><url>
-    <loc>https://mohgeis.com/tags/github-theme/</loc>
+    <loc>https://mohgeis.github.io/personal-website/tags/github-theme/</loc>
     <lastmod>2022-01-03T19:15:00+01:00</lastmod>
   </url><url>
-    <loc>https://mohgeis.com/tags/highlight-code/</loc>
+    <loc>https://mohgeis.github.io/personal-website/tags/highlight-code/</loc>
     <lastmod>2022-01-03T19:15:00+01:00</lastmod>
   </url><url>
-    <loc>https://mohgeis.com/2022/01/my-first-post/</loc>
+    <loc>https://mohgeis.github.io/personal-website/2022/01/my-first-post/</loc>
     <lastmod>2022-01-03T19:15:00+01:00</lastmod>
   </url><url>
-    <loc>https://mohgeis.com/tags/</loc>
+    <loc>https://mohgeis.github.io/personal-website/tags/</loc>
     <lastmod>2022-01-03T19:15:00+01:00</lastmod>
   </url><url>
-    <loc>https://mohgeis.com/tags/test/</loc>
+    <loc>https://mohgeis.github.io/personal-website/tags/test/</loc>
     <lastmod>2022-01-03T19:15:00+01:00</lastmod>
   </url><url>
-    <loc>https://mohgeis.com/categories/tranquilpeak/</loc>
+    <loc>https://mohgeis.github.io/personal-website/categories/tranquilpeak/</loc>
     <lastmod>2022-01-03T19:15:00+01:00</lastmod>
   </url><url>
-    <loc>https://mohgeis.com/about/</loc>
+    <loc>https://mohgeis.github.io/personal-website/about/</loc>
     <lastmod>2021-11-05T14:29:26+01:00</lastmod>
   </url>
 </urlset>
